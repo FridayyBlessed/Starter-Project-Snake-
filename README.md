@@ -10,6 +10,6 @@ Snake is a game in which a snake needs to explore an environment and catch the f
 
 
 
- [OUTPUT](https://drive.google.com/file/d/1kIqsNQfOGFvfJ9vA5omMCNIlKEJd1ynT/view?usp=drivesdk)
+ [OUTPUT](https://drive.google.com/file/d/1kIqsNQfOGFvfJ9vA5omMCNIlKEJd1ynT/view?usp=drivesdk).
 
 
